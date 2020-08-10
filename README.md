@@ -5,4 +5,4 @@ William has committed himself to holistic education based on “common sense” 
 
 William’s code contributions can be found in corporations and systems in finance, social media marketing, entertainment, and quality-of-life services. He’s headed active online communities with over 120 thousand members. These people use his chatbots and several Software-as-a-Service products, one of which, Chipsbot, has reached over ¾ of a million users worldwide. His one-line-wonders-code project has nearly 1000 contributions from hundreds of coders around the world. It has over 200 forks outstanding and some 400 pull requests processed. His publicly published packages, including “ytsearcher” with over 170 thousand downloads, satisfy thousands of developers’ needs every single day.
 
-If you’d like to get in touch, please don’t hesitate to reach out and send a message using the form.
+If you’d like to get in touch, please don’t hesitate to reach out and send a message.
