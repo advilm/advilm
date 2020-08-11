@@ -1,5 +1,5 @@
 # Hi there :wave: 
-<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=wzhouwzhou&&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=ffffff" alt="wzhouwzhou's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzhouwzhou&layout=compact&hide_border=true&bg_color=ffffff" alt="wzhouwzhou's Github Langs">
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=wzhouwzhou&&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&hide_title=true&bg_color=ffffff&theme=buefy" alt="wzhouwzhou's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzhouwzhou&layout=compact&hide_border=true&bg_color=ffffff" alt="wzhouwzhou's Github Langs">
 
 William has committed himself to holistic education based on “common sense” and connecting knowledge to real-world applications. He codes because he applies his code to different use cases in various industries.
 
